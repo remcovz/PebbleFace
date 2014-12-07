@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "remco@zuijlen.eu",
+    "longName": "Message Test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Message Test",
+    "uuid": "2fef07a1-8fd1-4ad0-981a-444239675a1c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
